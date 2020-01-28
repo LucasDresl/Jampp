@@ -35,7 +35,7 @@ user made action 4 against his next time he performs action.
 
 This metrics is relevant for the business side because provides you information about the performance of the app. In the case 
 that the action is “purchase” , the metrics gives you a sense of how fast the user place money in your app again ( in some way 
-you are monitoring the engagement , the stickiness).
+you are monitoring the engagement , the stickiness for the purchasing behaviour).
 
 
 The query without a WITH function would be :
